@@ -1,0 +1,2 @@
+net.abdel.dao.DaoImpl
+net.abdel.metier.MetierImpl
