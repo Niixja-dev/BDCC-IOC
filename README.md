@@ -126,6 +126,6 @@ Chaque execution affiche une valeur de resultat calculee a partir d'une valeur a
 - Spring automatise la creation des objets et l'injection des dependances.
 - Le projet compare plusieurs manieres d'obtenir le meme assemblage d'objets.
 
-## Points importants
+## Auteur
 
 Abdelbadii Elouedrhiri
